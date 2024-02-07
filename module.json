@@ -28,7 +28,7 @@
 			}
 		]
     },
-    "url": "",
-    "manifest": "",
-    "download": ""
+    "url": "https://github.com/centipeda/foundryvtt-tetracube-importer",
+    "manifest": "https://raw.githubusercontent.com/centipeda/foundryvtt-tetracube-importer/v0.1.0/module.json",
+    "download": "https://github.com/centipeda/foundryvtt-tetracube-importer/archive/refs/tags/v0.1.0.zip"
 }
