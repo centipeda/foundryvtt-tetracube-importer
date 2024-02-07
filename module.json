@@ -1,0 +1,34 @@
+{
+    "id": "tetracube-importer",
+    "title": "Tetra-Cube Statblock Importer",
+    "description": "Import monster statblocks from the Tetra-Cube statblock generator in .monster format.",
+    "authors": [
+        {
+            "name": "centipeda"
+        }
+    ],
+    "version": "0.1.0",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "11"
+    },
+    "esmodules": [
+        "scripts/importer.js"
+    ],
+    "relationships": {
+		"systems": [
+			{
+				"id": "dnd5e",
+				"type": "system",
+				"compatibility": {
+					"minimum": "3.0.0",
+					"verified": "3.0.1",
+					"maximum": "3.0.999"
+				}
+			}
+		]
+    },
+    "url": "",
+    "manifest": "",
+    "download": ""
+}
